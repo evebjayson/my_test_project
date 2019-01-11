@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9b5844d-ee1c-45bc-9419-7321d6ca7502" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_login_py.coverage" NAME="Unittests in login.py Coverage Results" MODIFIED="1546593868929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/login" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_bank_transfer_TestBankTransfer_test_bank_transfer.coverage" NAME="Unittests for test_bank_transfer.TestBankTransfer.test_bank_transfer Coverage Results" MODIFIED="1547171287375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/PersonalCenter/recharge" />
+    <SUITE FILE_PATH="coverage/java_auto_web$game_jump.coverage" NAME="game_jump Coverage Results" MODIFIED="1547090051568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/game" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_recoverbalance_py.coverage" NAME="Unittests in test_recoverbalance.py Coverage Results" MODIFIED="1547099701854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/FundManagement/Transfer" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_logout_TestLogin_test_login.coverage" NAME="Unittests for test_logout.TestLogin.test_login Coverage Results" MODIFIED="1546654540111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/logout" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_mail_py.coverage" NAME="Unittests in test_mail.py Coverage Results" MODIFIED="1546655609342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/PersonalCenter" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_login_TestLogin.coverage" NAME="Unittests for test_login.TestLogin Coverage Results" MODIFIED="1546593548935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/login" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_transer_to_game_GameJump.coverage" NAME="Unittests for test_transer_to_game.GameJump Coverage Results" MODIFIED="1547113811300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/FundManagement/Transfer" />
+    <SUITE FILE_PATH="coverage/java_auto_web$test.coverage" NAME="test Coverage Results" MODIFIED="1547108968477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_withdraw_page_py.coverage" NAME="Unittests in test_withdraw_page.py Coverage Results" MODIFIED="1546660665631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/PersonalCenter/withdraw" />
+    <SUITE FILE_PATH="coverage/java_auto_web$get_gamelist.coverage" NAME="get_gamelist Coverage Results" MODIFIED="1547086935291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/game/gameList" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_checkbalance_py.coverage" NAME="Unittests in test_checkbalance.py Coverage Results" MODIFIED="1546932066655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/FundManagement/Transfer" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_mail_TestLogin_test_login.coverage" NAME="Unittests for test_mail.TestLogin.test_login Coverage Results" MODIFIED="1546655710671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/PersonalCenter" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_my_game_py.coverage" NAME="Unittests in test_my_game.py Coverage Results" MODIFIED="1546655084882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/PersonalCenter" />
+    <SUITE FILE_PATH="coverage/java_auto_web$login_token.coverage" NAME="login_token Coverage Results" MODIFIED="1546654359390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1546652963715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/java_auto_web$get_gameidlist.coverage" NAME="get_gameidlist Coverage Results" MODIFIED="1547108884110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/game" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_tie_on_card_TieOnCard_test_tie_on_card.coverage" NAME="Unittests for test_tie_on_card.TieOnCard.test_tie_on_card Coverage Results" MODIFIED="1547171346910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/PersonalCenter/withdraw" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_b_reg_py.coverage" NAME="Unittests in test_b_reg.py Coverage Results" MODIFIED="1546651150936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/register" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_checkbalance_TestLogin_test_login.coverage" NAME="Unittests for test_checkbalance.TestLogin.test_login Coverage Results" MODIFIED="1546932107829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/FundManagement/Transfer" />
+    <SUITE FILE_PATH="coverage/java_auto_web$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1547113689189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/java_auto_web$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1547172752542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_game_jump_py.coverage" NAME="Unittests in test_game_jump.py Coverage Results" MODIFIED="1547091183821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/game" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_b_reg_Reg_test_reg.coverage" NAME="Unittests for test_b_reg.Reg.test_reg Coverage Results" MODIFIED="1546651102131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/register" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_my_game_TestLogin_test_login.coverage" NAME="Unittests for test_my_game.TestLogin.test_login Coverage Results" MODIFIED="1546655272210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/PersonalCenter" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_refresh_balance_TestLogin_test_login.coverage" NAME="Unittests for test_refresh_balance.TestLogin.test_login Coverage Results" MODIFIED="1546655866903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/PersonalCenter" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_mail_TestLogin.coverage" NAME="Unittests for test_mail.TestLogin Coverage Results" MODIFIED="1546655676588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/PersonalCenter" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_get_catDepotList_GetGameList_test_get_catDepotList.coverage" NAME="Unittests for test_get_catDepotList.GetGameList.test_get_catDepotList Coverage Results" MODIFIED="1547171758897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/game" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_get_catDepotList_py.coverage" NAME="Unittests in test_get_catDepotList.py Coverage Results" MODIFIED="1547024970637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/game/gameList" />
+    <SUITE FILE_PATH="coverage/java_auto_web$run_all_case.coverage" NAME="run_all_case Coverage Results" MODIFIED="1547174103174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_logout_py.coverage" NAME="Unittests in test_logout.py Coverage Results" MODIFIED="1546654386842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/logout" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_transer_to_game_py.coverage" NAME="Unittests in test_transer_to_game.py Coverage Results" MODIFIED="1547170104235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/FundManagement/Transfer" />
+    <SUITE FILE_PATH="coverage/java_auto_web$base.coverage" NAME="base Coverage Results" MODIFIED="1547098897331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_login_TestLogin_test_login.coverage" NAME="Unittests for test_login.TestLogin.test_login Coverage Results" MODIFIED="1546593697652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/login" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_recoverbalance_CheckBalance_test_check_platformbalance.coverage" NAME="Unittests for test_recoverbalance.CheckBalance.test_check_platformbalance Coverage Results" MODIFIED="1546933362083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/FundManagement/Transfer(转账)" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_transer_to_game_GameJump_test_transfer.coverage" NAME="Unittests for test_transer_to_game.GameJump.test_transfer Coverage Results" MODIFIED="1547170450426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/FundManagement/Transfer" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_in_test_a_register_protocol_py.coverage" NAME="Unittests in test_a_register_protocol.py Coverage Results" MODIFIED="1546594763433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/register" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_recoverbalance_CheckBalance_test_recoverbalance.coverage" NAME="Unittests for test_recoverbalance.CheckBalance.test_recoverbalance Coverage Results" MODIFIED="1547101086452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/FundManagement/Transfer" />
+    <SUITE FILE_PATH="coverage/java_auto_web$Unittests_for_test_recoverbalance_CheckBalance.coverage" NAME="Unittests for test_recoverbalance.CheckBalance Coverage Results" MODIFIED="1547099716587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/FundManagement/Transfer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/game/test_get_catDepotList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/case/login/test_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cat</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/HTTPservice.py" />
+        <option value="$PROJECT_DIR$/case/register/test_register.py" />
+        <option value="$PROJECT_DIR$/case/register/test_register_agreement.py" />
+        <option value="$PROJECT_DIR$/case/register/test_a_register_agreement.py" />
+        <option value="$PROJECT_DIR$/case/register/test_b_reg.py" />
+        <option value="$PROJECT_DIR$/case/register/test_a_register_protocol.py" />
+        <option value="$PROJECT_DIR$/common/login_token.py" />
+        <option value="$PROJECT_DIR$/case/PersonalCenter/test_my_game.py" />
+        <option value="$PROJECT_DIR$/case/PersonalCenter/test_mail.py" />
+        <option value="$PROJECT_DIR$/case/PersonalCenter/test_refresh_balance.py" />
+        <option value="$PROJECT_DIR$/case/logout/test_logout.py" />
+        <option value="$PROJECT_DIR$/case/PersonalCenter/test_bank_transfer.py" />
+        <option value="$PROJECT_DIR$/case/register/test_c_register.py" />
+        <option value="$PROJECT_DIR$/case/PersonalCenter/withdraw/WithdrawPage.py" />
+        <option value="$PROJECT_DIR$/case/PersonalCenter/withdraw/test_withdraw_page.py" />
+        <option value="$PROJECT_DIR$/config/bankname" />
+        <option value="$PROJECT_DIR$/config/cityname.py" />
+        <option value="$PROJECT_DIR$/config/cityname.ini" />
+        <option value="$PROJECT_DIR$/config/cityname.txt" />
+        <option value="$PROJECT_DIR$/case/PersonalCenter/withdraw/test_tie_on_card.py" />
+        <option value="$PROJECT_DIR$/test1" />
+        <option value="$PROJECT_DIR$/config/provincename.txt" />
+        <option value="$PROJECT_DIR$/config/cityname.xml" />
+        <option value="$PROJECT_DIR$/config/cityname" />
+        <option value="$PROJECT_DIR$/config/provincename.xml" />
+        <option value="$PROJECT_DIR$/config/provincename" />
+        <option value="$PROJECT_DIR$/config/provincesname" />
+        <option value="$PROJECT_DIR$/case/FundManagement/Transfer/test_refresh_balance.py" />
+        <option value="$PROJECT_DIR$/case/FundManagement/Transfer(转账)/test_checkbalance.py" />
+        <option value="$PROJECT_DIR$/case/FundManagement/Transfer(转账)/test_transfer.py" />
+        <option value="$PROJECT_DIR$/case/game/gameList/test_get_catDepotList.py" />
+        <option value="$PROJECT_DIR$/case/game/gameList/get_gamelist.py" />
+        <option value="$PROJECT_DIR$/case/FundManagement/Transfer(转账)/test_transer_to_game.py" />
+        <option value="$PROJECT_DIR$/common/base.py" />
+        <option value="$PROJECT_DIR$/case/FundManagement/Transfer(转账)/test_recoverbalance.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/config/cfg.ini" />
+        <option value="$PROJECT_DIR$/case/PersonalCenter/recharge/test_bank_transfer.py" />
+        <option value="$PROJECT_DIR$/case/PersonalCenter/withdraw/1test_tie_on_card.py" />
+        <option value="$PROJECT_DIR$/config/readConfig.py" />
+        <option value="$PROJECT_DIR$/config/mailcfg.ini" />
+        <option value="$PROJECT_DIR$/run_all_case.py" />
+        <option value="$PROJECT_DIR$/case/game/test_get_catDepotList.py" />
+        <option value="$PROJECT_DIR$/case/game/test_game_jump.py" />
+        <option value="$PROJECT_DIR$/case/FundManagement/Transfer/test_transer_to_game.py" />
+        <option value="$PROJECT_DIR$/case/FundManagement/Transfer/test_recoverbalance.py" />
+        <option value="$PROJECT_DIR$/case/FundManagement/Transfer/test_checkbalance.py" />
+        <option value="$PROJECT_DIR$/case/game/game_jump.py" />
+        <option value="$PROJECT_DIR$/case/game/get_gameidlist.py" />
+        <option value="$PROJECT_DIR$/case/login/test_login.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_auto_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_auto_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_auto_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_auto_web" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java_auto\java_auto_web\case" />
+      <recent name="D:\java_auto\java_auto_web" />
+      <recent name="D:\java_auto\java_auto_web\case\game" />
+      <recent name="D:\api-gateway-test\java_auto_web\case\PersonalCenter\recharge" />
+      <recent name="D:\api-gateway-test\java_auto_web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_all_case">
+    <configuration name="readConfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="java_auto_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config/readConfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_all_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="java_auto_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_bank_transfer.TestBankTransfer.test_bank_transfer" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="java_auto_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/PersonalCenter/recharge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_bank_transfer.TestBankTransfer.test_bank_transfer&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_get_catDepotList.GetGameList.test_get_catDepotList" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="java_auto_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_get_catDepotList.GetGameList.test_get_catDepotList&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_tie_on_card.TieOnCard.test_tie_on_card" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="java_auto_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/PersonalCenter/withdraw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_tie_on_card.TieOnCard.test_tie_on_card&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_all_case" />
+        <item itemvalue="Python.readConfig" />
+        <item itemvalue="Python tests.Unittests for test_get_catDepotList.GetGameList.test_get_catDepotList" />
+        <item itemvalue="Python tests.Unittests for test_tie_on_card.TieOnCard.test_tie_on_card" />
+        <item itemvalue="Python tests.Unittests for test_bank_transfer.TestBankTransfer.test_bank_transfer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Jayson\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9b5844d-ee1c-45bc-9419-7321d6ca7502" name="Default Changelist" comment="" />
+      <created>1546589882284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546589882284</updated>
+      <workItem from="1546589884734" duration="16202000" />
+      <workItem from="1546672810977" duration="37004000" />
+      <workItem from="1547002312760" duration="51720000" />
+      <workItem from="1547187469271" duration="251000" />
+      <workItem from="1547188984686" duration="50000" />
+      <workItem from="1547189054551" duration="1411000" />
+    </task>
+    <task id="LOCAL-00001" summary="增加base模块代码">
+      <created>1546674110192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546674110192</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加用例代码">
+      <created>1546681536794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546681536794</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_transer_to_game_GameJump_test_transfer - 2019.01.11 at 09h 25m 58s.xml">
+      <configuration name="Unittests for test_transer_to_game.GameJump.test_transfer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_transer_to_game_GameJump_test_transfer - 2019.01.11 at 09h 27m 08s.xml">
+      <configuration name="Unittests for test_transer_to_game.GameJump.test_transfer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_transer_to_game_py - 2019.01.11 at 09h 28m 53s.xml">
+      <configuration name="Unittests in test_transer_to_game.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_transer_to_game_GameJump_test_transfer - 2019.01.11 at 09h 32m 31s.xml">
+      <configuration name="Unittests for test_transer_to_game.GameJump.test_transfer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_transer_to_game_GameJump_test_transfer - 2019.01.11 at 09h 34m 40s.xml">
+      <configuration name="Unittests for test_transer_to_game.GameJump.test_transfer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_bank_transfer_TestBankTransfer_test_bank_transfer - 2019.01.11 at 09h 47m 38s.xml">
+      <configuration name="Unittests for test_bank_transfer.TestBankTransfer.test_bank_transfer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_bank_transfer_TestBankTransfer_test_bank_transfer - 2019.01.11 at 09h 48m 08s.xml">
+      <configuration name="Unittests for test_bank_transfer.TestBankTransfer.test_bank_transfer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_tie_on_card_TieOnCard_test_tie_on_card - 2019.01.11 at 09h 49m 09s.xml">
+      <configuration name="Unittests for test_tie_on_card.TieOnCard.test_tie_on_card" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_get_catDepotList_GetGameList_test_get_catDepotList - 2019.01.11 at 09h 50m 53s.xml">
+      <configuration name="Unittests for test_get_catDepotList.GetGameList.test_get_catDepotList" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_get_catDepotList_GetGameList_test_get_catDepotList - 2019.01.11 at 09h 55m 59s.xml">
+      <configuration name="Unittests for test_get_catDepotList.GetGameList.test_get_catDepotList" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106638000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26332623" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="SVN Repositories" order="0" weight="0.32883817" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32987553" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32987553" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32987553" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32883817" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.39937758" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加base模块代码" />
+    <MESSAGE value="增加用例代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加用例代码" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/readexcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/HTTPservice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="45" column="56" lean-forward="true" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/register/test_b_reg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/register/test_a_register_protocol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/PersonalCenter/test_my_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/PersonalCenter/test_mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/register/test_c_register.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/bankname">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cityname.py" />
+    <entry file="file://$PROJECT_DIR$/test1" />
+    <entry file="file://$PROJECT_DIR$/config/cityname.xml" />
+    <entry file="file://$PROJECT_DIR$/config/provincename.xml" />
+    <entry file="file://$PROJECT_DIR$/config/cityname" />
+    <entry file="file://$PROJECT_DIR$/config/provincename" />
+    <entry file="file://$PROJECT_DIR$/config/provincesname">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/logout/test_logout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/login_token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py" />
+    <entry file="file://$PROJECT_DIR$/log/2019_01_10.log" />
+    <entry file="file://$PROJECT_DIR$/common/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#2432#2481#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/cof.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2019_01_11.log" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/PersonalCenter/withdraw/1test_tie_on_card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="764" column="8" selection-start-line="764" selection-start-column="8" selection-end-line="764" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/PersonalCenter/withdraw/test_withdraw_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2275">
+          <caret line="91" column="33" lean-forward="true" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mailcfg.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/FundManagement/Transfer/test_transfer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/FundManagement/Transfer/test_transer_to_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/FundManagement/Transfer/test_recoverbalance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/game/game_jump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/game/test_game_jump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/PersonalCenter/recharge/test_refresh_balance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/FundManagement/Transfer/test_checkbalance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/game/get_gameidlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/PersonalCenter/recharge/test_bank_transfer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/game/test_get_catDepotList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/login/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

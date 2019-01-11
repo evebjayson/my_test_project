@@ -1,0 +1,8 @@
+[2018-12-06 15:08:14,622] - logger.py] - ERROR: get请求错误: 'NoneType' object has no attribute 'json'
+[2018-12-06 17:31:15,694] - logger.py] - INFO: --------start--------
+[2018-12-06 17:32:23,665] - logger.py] - INFO: --------start--------
+[2018-12-06 17:32:23,666] - logger.py] - INFO: -------test is pass--------
+[2018-12-06 17:32:23,666] - logger.py] - INFO: --------end--------
+[2018-12-06 18:06:53,726] - logger.py] - INFO: --------start--------
+[2018-12-06 18:06:53,726] - logger.py] - INFO: -------test is pass--------
+[2018-12-06 18:06:53,727] - logger.py] - INFO: --------end--------
